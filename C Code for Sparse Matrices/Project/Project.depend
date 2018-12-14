@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1497619532 source:c:\users\edii\desktop\proiect final\codex\project\main.c
+	"functions.h"
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1497619356 c:\users\edii\desktop\proiect final\codex\project\functions.h
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1497619352 source:c:\users\edii\desktop\proiect final\codex\project\functions.c
+	"functions.h"
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1498310012 source:c:\users\edii\desktop\pc- project\eduard _balasa_cr1.1a\c code for sparse matrices\project\functions.c
+	"functions.h"
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1498309827 c:\users\edii\desktop\pc- project\eduard _balasa_cr1.1a\c code for sparse matrices\project\functions.h
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1498310098 source:c:\users\edii\desktop\pc- project\eduard _balasa_cr1.1a\c code for sparse matrices\project\main.c
+	"functions.h"
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
